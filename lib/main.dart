@@ -39,8 +39,314 @@ class _HomePageState extends State<HomePage> {
         ),
         body: TabBarView(
           children: [
-            Column(
+            ListView(
               children: [
+                Card(
+                  elevation: 30,
+                  child: ListTile(
+                    leading: Icon(Icons.person),
+                    title: Text("biom"),
+                    subtitle: Text("Bro! Ngantuk ya mapel ini..."),
+                    trailing: Text("50", style: TextStyle(color: Colors.green)),
+                  ),
+                ),
+                Card(
+                  elevation: 30,
+                  child: ListTile(
+                    leading: Icon(Icons.person),
+                    title: Text("marvel"),
+                    subtitle: Text("Bro! Ngantuk ya mapel ini..."),
+                    trailing: Text("50", style: TextStyle(color: Colors.green)),
+                  ),
+                ),
+                Card(
+                  elevation: 30,
+                  child: ListTile(
+                    leading: Icon(Icons.person),
+                    title: Text("biom"),
+                    subtitle: Text("Bro! Ngantuk ya mapel ini..."),
+                    trailing: Text("50", style: TextStyle(color: Colors.green)),
+                  ),
+                ),
+                Card(
+                  elevation: 30,
+                  child: ListTile(
+                    leading: Icon(Icons.person),
+                    title: Text("marvel"),
+                    subtitle: Text("Bro! Ngantuk ya mapel ini..."),
+                    trailing: Text("50", style: TextStyle(color: Colors.green)),
+                  ),
+                ),
+                Card(
+                  elevation: 30,
+                  child: ListTile(
+                    leading: Icon(Icons.person),
+                    title: Text("biom"),
+                    subtitle: Text("Bro! Ngantuk ya mapel ini..."),
+                    trailing: Text("50", style: TextStyle(color: Colors.green)),
+                  ),
+                ),
+                Card(
+                  elevation: 30,
+                  child: ListTile(
+                    leading: Icon(Icons.person),
+                    title: Text("marvel"),
+                    subtitle: Text("Bro! Ngantuk ya mapel ini..."),
+                    trailing: Text("50", style: TextStyle(color: Colors.green)),
+                  ),
+                ),
+                Card(
+                  elevation: 30,
+                  child: ListTile(
+                    leading: Icon(Icons.person),
+                    title: Text("biom"),
+                    subtitle: Text("Bro! Ngantuk ya mapel ini..."),
+                    trailing: Text("50", style: TextStyle(color: Colors.green)),
+                  ),
+                ),
+                Card(
+                  elevation: 30,
+                  child: ListTile(
+                    leading: Icon(Icons.person),
+                    title: Text("marvel"),
+                    subtitle: Text("Bro! Ngantuk ya mapel ini..."),
+                    trailing: Text("50", style: TextStyle(color: Colors.green)),
+                  ),
+                ),
+                Card(
+                  elevation: 30,
+                  child: ListTile(
+                    leading: Icon(Icons.person),
+                    title: Text("biom"),
+                    subtitle: Text("Bro! Ngantuk ya mapel ini..."),
+                    trailing: Text("50", style: TextStyle(color: Colors.green)),
+                  ),
+                ),
+                Card(
+                  elevation: 30,
+                  child: ListTile(
+                    leading: Icon(Icons.person),
+                    title: Text("marvel"),
+                    subtitle: Text("Bro! Ngantuk ya mapel ini..."),
+                    trailing: Text("50", style: TextStyle(color: Colors.green)),
+                  ),
+                ),
+                Card(
+                  elevation: 30,
+                  child: ListTile(
+                    leading: Icon(Icons.person),
+                    title: Text("biom"),
+                    subtitle: Text("Bro! Ngantuk ya mapel ini..."),
+                    trailing: Text("50", style: TextStyle(color: Colors.green)),
+                  ),
+                ),
+                Card(
+                  elevation: 30,
+                  child: ListTile(
+                    leading: Icon(Icons.person),
+                    title: Text("marvel"),
+                    subtitle: Text("Bro! Ngantuk ya mapel ini..."),
+                    trailing: Text("50", style: TextStyle(color: Colors.green)),
+                  ),
+                ),
+                Card(
+                  elevation: 30,
+                  child: ListTile(
+                    leading: Icon(Icons.person),
+                    title: Text("biom"),
+                    subtitle: Text("Bro! Ngantuk ya mapel ini..."),
+                    trailing: Text("50", style: TextStyle(color: Colors.green)),
+                  ),
+                ),
+                Card(
+                  elevation: 30,
+                  child: ListTile(
+                    leading: Icon(Icons.person),
+                    title: Text("marvel"),
+                    subtitle: Text("Bro! Ngantuk ya mapel ini..."),
+                    trailing: Text("50", style: TextStyle(color: Colors.green)),
+                  ),
+                ),
+                Card(
+                  elevation: 30,
+                  child: ListTile(
+                    leading: Icon(Icons.person),
+                    title: Text("biom"),
+                    subtitle: Text("Bro! Ngantuk ya mapel ini..."),
+                    trailing: Text("50", style: TextStyle(color: Colors.green)),
+                  ),
+                ),
+                Card(
+                  elevation: 30,
+                  child: ListTile(
+                    leading: Icon(Icons.person),
+                    title: Text("marvel"),
+                    subtitle: Text("Bro! Ngantuk ya mapel ini..."),
+                    trailing: Text("50", style: TextStyle(color: Colors.green)),
+                  ),
+                ),
+                Card(
+                  elevation: 30,
+                  child: ListTile(
+                    leading: Icon(Icons.person),
+                    title: Text("biom"),
+                    subtitle: Text("Bro! Ngantuk ya mapel ini..."),
+                    trailing: Text("50", style: TextStyle(color: Colors.green)),
+                  ),
+                ),
+                Card(
+                  elevation: 30,
+                  child: ListTile(
+                    leading: Icon(Icons.person),
+                    title: Text("marvel"),
+                    subtitle: Text("Bro! Ngantuk ya mapel ini..."),
+                    trailing: Text("50", style: TextStyle(color: Colors.green)),
+                  ),
+                ),
+                Card(
+                  elevation: 30,
+                  child: ListTile(
+                    leading: Icon(Icons.person),
+                    title: Text("biom"),
+                    subtitle: Text("Bro! Ngantuk ya mapel ini..."),
+                    trailing: Text("50", style: TextStyle(color: Colors.green)),
+                  ),
+                ),
+                Card(
+                  elevation: 30,
+                  child: ListTile(
+                    leading: Icon(Icons.person),
+                    title: Text("marvel"),
+                    subtitle: Text("Bro! Ngantuk ya mapel ini..."),
+                    trailing: Text("50", style: TextStyle(color: Colors.green)),
+                  ),
+                ),
+                Card(
+                  elevation: 30,
+                  child: ListTile(
+                    leading: Icon(Icons.person),
+                    title: Text("biom"),
+                    subtitle: Text("Bro! Ngantuk ya mapel ini..."),
+                    trailing: Text("50", style: TextStyle(color: Colors.green)),
+                  ),
+                ),
+                Card(
+                  elevation: 30,
+                  child: ListTile(
+                    leading: Icon(Icons.person),
+                    title: Text("marvel"),
+                    subtitle: Text("Bro! Ngantuk ya mapel ini..."),
+                    trailing: Text("50", style: TextStyle(color: Colors.green)),
+                  ),
+                ),
+                Card(
+                  elevation: 30,
+                  child: ListTile(
+                    leading: Icon(Icons.person),
+                    title: Text("biom"),
+                    subtitle: Text("Bro! Ngantuk ya mapel ini..."),
+                    trailing: Text("50", style: TextStyle(color: Colors.green)),
+                  ),
+                ),
+                Card(
+                  elevation: 30,
+                  child: ListTile(
+                    leading: Icon(Icons.person),
+                    title: Text("marvel"),
+                    subtitle: Text("Bro! Ngantuk ya mapel ini..."),
+                    trailing: Text("50", style: TextStyle(color: Colors.green)),
+                  ),
+                ),
+                Card(
+                  elevation: 30,
+                  child: ListTile(
+                    leading: Icon(Icons.person),
+                    title: Text("biom"),
+                    subtitle: Text("Bro! Ngantuk ya mapel ini..."),
+                    trailing: Text("50", style: TextStyle(color: Colors.green)),
+                  ),
+                ),
+                Card(
+                  elevation: 30,
+                  child: ListTile(
+                    leading: Icon(Icons.person),
+                    title: Text("marvel"),
+                    subtitle: Text("Bro! Ngantuk ya mapel ini..."),
+                    trailing: Text("50", style: TextStyle(color: Colors.green)),
+                  ),
+                ),
+                Card(
+                  elevation: 30,
+                  child: ListTile(
+                    leading: Icon(Icons.person),
+                    title: Text("biom"),
+                    subtitle: Text("Bro! Ngantuk ya mapel ini..."),
+                    trailing: Text("50", style: TextStyle(color: Colors.green)),
+                  ),
+                ),
+                Card(
+                  elevation: 30,
+                  child: ListTile(
+                    leading: Icon(Icons.person),
+                    title: Text("marvel"),
+                    subtitle: Text("Bro! Ngantuk ya mapel ini..."),
+                    trailing: Text("50", style: TextStyle(color: Colors.green)),
+                  ),
+                ),
+                Card(
+                  elevation: 30,
+                  child: ListTile(
+                    leading: Icon(Icons.person),
+                    title: Text("biom"),
+                    subtitle: Text("Bro! Ngantuk ya mapel ini..."),
+                    trailing: Text("50", style: TextStyle(color: Colors.green)),
+                  ),
+                ),
+                Card(
+                  elevation: 30,
+                  child: ListTile(
+                    leading: Icon(Icons.person),
+                    title: Text("marvel"),
+                    subtitle: Text("Bro! Ngantuk ya mapel ini..."),
+                    trailing: Text("50", style: TextStyle(color: Colors.green)),
+                  ),
+                ),
+                Card(
+                  elevation: 30,
+                  child: ListTile(
+                    leading: Icon(Icons.person),
+                    title: Text("biom"),
+                    subtitle: Text("Bro! Ngantuk ya mapel ini..."),
+                    trailing: Text("50", style: TextStyle(color: Colors.green)),
+                  ),
+                ),
+                Card(
+                  elevation: 30,
+                  child: ListTile(
+                    leading: Icon(Icons.person),
+                    title: Text("marvel"),
+                    subtitle: Text("Bro! Ngantuk ya mapel ini..."),
+                    trailing: Text("50", style: TextStyle(color: Colors.green)),
+                  ),
+                ),
+                Card(
+                  elevation: 30,
+                  child: ListTile(
+                    leading: Icon(Icons.person),
+                    title: Text("biom"),
+                    subtitle: Text("Bro! Ngantuk ya mapel ini..."),
+                    trailing: Text("50", style: TextStyle(color: Colors.green)),
+                  ),
+                ),
+                Card(
+                  elevation: 30,
+                  child: ListTile(
+                    leading: Icon(Icons.person),
+                    title: Text("marvel"),
+                    subtitle: Text("Bro! Ngantuk ya mapel ini..."),
+                    trailing: Text("50", style: TextStyle(color: Colors.green)),
+                  ),
+                ),
                 Card(
                   elevation: 30,
                   child: ListTile(
